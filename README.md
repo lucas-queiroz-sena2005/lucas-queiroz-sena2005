@@ -4,8 +4,7 @@ Campinas, São Paulo | +55 61 98191-0385 | lucas.queiroz.sena.2005@gmail.com | [
 ---
 
 ### **Professional Summary**
-
-A highly motivated Systems Analysis and Development student with a strong foundation in full-stack development, focusing on TypeScript, React, and Node.js. Passionate about programming since the age of seven, I am a self-directed learner with a discipline of over 30 hours per week dedicated to mastering modern technologies. I am driven to build elegant, scalable, and intuitive solutions that solve real-world problems, with experience in creating impactful and frictionless user experiences from the front-end interface to the back-end logic.
+A dedicated Systems Analysis and Development student with a strong foundation in full-stack engineering. Leverages a modern tech stack—including TypeScript, React, and Node.js with Express—to translate complex requirements into elegant and frictionless user experiences. Possesses a disciplined, self-directed approach to mastering new technologies, including relational database design with PostgreSQL, to deliver robust and scalable back-end logic.
 
 ---
 
