@@ -47,7 +47,7 @@ A dedicated Systems Analysis and Development student with a strong foundation in
 ---
 
 ### **Professional Development & Certifications**
-
+Acquired from Scrimbda:
 *   Advanced React
 *   Learn Express.js
 *   Learn React
